@@ -1,5 +1,5 @@
 # jsoncheck
-This application verifies if a json file syntax is correct.
+Verifies if a json file syntax is correct.
 
 If some error is detected it will show where's the problem.
 
